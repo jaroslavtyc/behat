@@ -157,7 +157,7 @@ function. Yep, this looks ugly, but it'll all make sense in a second!::
         'named',
         array(
             'link',
-            $selectorsHandler->xpathLiteral('MinkExtension')
+            $selectorsHandler->xpathLiteral('Random page')
         )
     );
 
